@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Replace onnx2tf usage from CLI to Python (#8429)
