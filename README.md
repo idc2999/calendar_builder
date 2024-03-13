@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
