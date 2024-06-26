@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
